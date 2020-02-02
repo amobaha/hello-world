@@ -1,2 +1,2 @@
 # hello-world
-Hello world repsotitory
+this is amobaha's first readme file
